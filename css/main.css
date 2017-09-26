@@ -1,0 +1,25 @@
+.nav{
+  background-color: red;
+  margin: 30px;
+  padding: 100px;
+
+}
+
+li{
+  background-color: white;
+  display: flex;
+  padding: 20px;
+
+
+}
+
+#heading{
+  margin: 30px;
+  font-style: normal;
+  font-weight: bold;
+  font-family: serif;
+  font-variant: small-caps;
+  font-size: 50px;
+  
+
+}
